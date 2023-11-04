@@ -1,13 +1,42 @@
-h1{
-    color: brown;
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#mainNav{
+    color: #FF6600;
 }
 #about{
     background-color: black;
 
 }
 .masthead{
-    background-image: url("../assets/img/plataformas.jpg");
+    background-image: url("../assets/img/streaming_platform_image_Shutterstock_s.jpg");
+    background-color: black;
 }
 .signup-section{
-    background-image: url("../assets/img/plataformas.jpg"); 
+    background-image: none;
+    background-color: black;
+}
+h1{
+    color: #FF6600;
+}
+#submitButton{
+    background-color: #FF6600;
+}
+#cardColor{
+    border-bottom-color: #FF6600;
+}
+#separador{
+    border-color: #FF6600;
+}
+#telefonoi{
+    color: #FF6600;
+}
+#separador2{
+    border-left-color: #FF6600;
+}
+#navborde{
+    border-bottom-color: #FF6600;
+}
+#tprinp{
+    background-color: #ffffa1;
 }
